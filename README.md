@@ -93,6 +93,8 @@ and MongoDB.
 
 💻 GitHub: **[Akshay Bodhankar](https://github.com/akshay-bodhankar)**
 
+📄 Resume: **[Resume](./Akshay_Bodhankar_Resume.pdf)**
+
 ---
 
 ⭐ *"Building reliable backend systems, enterprise blockchain solutions,
