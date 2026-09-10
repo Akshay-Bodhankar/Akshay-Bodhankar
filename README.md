@@ -1,29 +1,27 @@
-# Hi, I'm Akshay Bodhankar 👋
+# Hi 👋, I'm Akshay Bodhankar
 
-### Software Engineer | Backend | Blockchain | Cloud | DevOps & Automation
+### Software Engineer | Backend Developer | Blockchain Developer | Cloud & DevOps
 
-I'm a Software Engineer with 6+ years of experience building backend services,
-enterprise blockchain applications, cloud deployments, and automation workflows.
-
-I enjoy building systems that connect **backend engineering, blockchain,
-cloud infrastructure, and enterprise applications**.
+I specialize in building backend services, enterprise blockchain applications,
+cloud deployments, and automation solutions. Experienced in Node.js, Express.js,
+Hyperledger Fabric, MongoDB, AWS, Docker, IPFS, and Ansible, with a focus on
+building scalable and reliable enterprise solutions.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 6+ years of software engineering experience
-- 🔗 Experienced in **Hyperledger Fabric & Blockchain Application Development**
-- ⚙️ Backend development with **Node.js, Express.js & REST APIs**
-- 🗄️ Experienced with **MongoDB & SQL**
-- ☁️ Hands-on experience with **AWS EC2, S3 & ELB**
-- 🐳 Experience with **Docker & Linux**
-- 🔧 Infrastructure automation using **Ansible**
-- 📄 Built **OCR-based invoice automation** using n8n
-- 🏢 Integrated automation workflows with **JD Edwards ERP**
-- 📦 Experience with **IPFS-based document storage**
-- 🎓 M.Tech in Software Engineering — BITS Pilani
-- 🏆 Hyperledger Fabric Certified Practitioner (HFCP)
+- 💼 6+ years of experience in **Software Engineering & Backend Development**
+- 🔗 Experienced in **Hyperledger Fabric & Enterprise Blockchain Development**
+- ⚡ Building backend applications using **Node.js, Express.js & REST APIs**
+- ☁️ Hands-on experience with **AWS, Docker, Linux & Cloud Deployments**
+- 🔐 Experienced in **Blockchain-based document management using IPFS**
+- 🔧 Automated infrastructure provisioning and server setup using **Ansible**
+- 🤖 Built **OCR-based invoice automation workflows using n8n**
+- 🏢 Worked on enterprise application integration including **JD Edwards ERP**
+- 🎓 M.Tech in **Software Engineering from BITS Pilani**
+- 🏆 **Hyperledger Fabric Certified Practitioner (HFCP)**
+- 🤝 Open to **Software Engineer, Backend Developer & Blockchain Developer** opportunities
 
 ---
 
@@ -60,46 +58,42 @@ cloud infrastructure, and enterprise applications**.
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR-Automation-6A1B9A)
 
----
-
-## 🔥 Featured Projects
-
-### 🔗 Supply Chain Blockchain Platform
-
-**Hyperledger Fabric | Node.js | Express.js | MongoDB | Docker | AWS**
-
-A blockchain-based Supply Chain Proof of Concept designed to provide
-trusted transaction records and traceability across participants.
-
-**Highlights:**
-
-- Hyperledger Fabric network configuration
-- Organizations, peers, orderers, channels and Fabric CA
-- JavaScript Chaincode
-- Node.js / Express.js backend
-- REST API integration
-- MongoDB
-- Docker
-- AWS EC2 & S3
 
 ---
 
-### 📄 Invoice OCR & ERP Automation
+## 🌟 Featured Projects
 
-**n8n | OCR | JavaScript | JD Edwards ERP**
+🔹 **Supply Chain Blockchain Platform**  
+Hyperledger Fabric-based Supply Chain Proof of Concept with Node.js,
+Express.js, MongoDB, Docker and AWS.
 
-An enterprise automation workflow for processing invoices.
+🔹 **National Blockchain Framework (NBF)**  
+Enterprise blockchain platform using Hyperledger Fabric, Node.js, Express.js,
+MongoDB, IPFS and Ansible.
 
-```text
-Invoice
-   ↓
-OCR
-   ↓
-Extract Information
-   ↓
-Process / Transform Data
-   ↓
-JD Edwards ERP
-   ↓
-Create Transaction
-```
+🔹 **Invoice OCR & ERP Automation**  
+n8n-based automation workflow for extracting invoice information through OCR
+and creating corresponding transactions in JD Edwards ERP.
+
+🔹 **Blockchain Document Management**  
+Secure document management using Hyperledger Fabric and IPFS with document
+encryption, CID management and blockchain-based transaction records.
+
+🔹 **AWS Application Deployment**  
+Containerized application deployment using AWS EC2, S3, ELB, Docker, Nginx
+and MongoDB.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **akshaybodhankar2197@gmail.com**
+
+💼 LinkedIn: **[akshay-bodhankar](https://www.linkedin.com/in/akshay-bodhankar-1a152a186/)**
+
+💻 GitHub: **[Akshay Bodhankar](https://github.com/akshay-bodhankar)**
+
+---
+
+⭐ *"Building reliable backend systems, enterprise blockchain solutions,
+and cloud-powered applications."*
