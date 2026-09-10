@@ -85,6 +85,25 @@ and MongoDB.
 
 ---
 
+## 🏆 Certifications
+
+🏅 **Hyperledger Fabric Certified Practitioner (HFCP)** — Linux Foundation  
+[View Certificate](https://www.credly.com/badges/44e761a5-985a-42f1-bd0d-fbfc410a9d8c)
+
+☁️ **DevOps Course Certification** — Tutedude, 2026  
+[View Certificate](https://upskill.tutedude.com/certificate/TD-AKSH-DO-2110)
+
+🐍 **Programming using Python** — Microsoft  
+[View Certificate](https://www.credly.com/badges/cf946041-9ee5-4c64-b08a-a09d0f44a472/public_url)
+
+🐍 **Python Basic** — HackerRank  
+[View Certificate](https://www.hackerrank.com/certificates/9446646af2cd)
+
+🌐 **HTML5 Application Development Fundamentals** — Microsoft  
+[View Certificate](https://www.credly.com/badges/b1b9eec5-fab2-484e-a327-2cc618e495b8/public_url)
+
+---
+
 ## 📫 Connect With Me
 
 📧 Email: **akshaybodhankar2197@gmail.com**
