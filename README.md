@@ -93,7 +93,7 @@ and MongoDB.
 
 💻 GitHub: **[Akshay Bodhankar](https://github.com/akshay-bodhankar)**
 
-📄 Resume: **[Resume](./Akshay_Bodhankar_Resume.pdf)**
+📄 Resume: **[Akshay Bodhankar](./Akshay_Bodhankar-Resume.pdf)**
 
 ---
 
